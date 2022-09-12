@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="286b6736-d496-4686-bfaf-466a228c17f9" name="Changes" comment="" />
+    <list default="true" id="286b6736-d496-4686-bfaf-466a228c17f9" name="Changes" comment="donee">
+      <change beforePath="$PROJECT_DIR$/src/furkenkss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/furkenkss.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Eg8WxEL2r8UimorkgREgyjZnpl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,6 +60,30 @@
       <option name="presentableId" value="Default" />
       <updated>1663005903129</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1663006102576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663006102576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="donee" />
+    <option name="LAST_COMMIT_MESSAGE" value="donee" />
   </component>
 </project>
